@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521382530 source:c:\code blocks repository\studentgrademanagementsystem\main.c
+	<stdio.h>
+	<string.h>
+
